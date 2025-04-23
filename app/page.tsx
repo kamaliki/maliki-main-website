@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { NavigationMenuDemo } from "./navigationMenu";
 
 export default function Home() {
